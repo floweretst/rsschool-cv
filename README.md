@@ -1,1 +1,1 @@
-# rsschool-cv
+https://floweretst.github.io/rsschool-cv/cv
