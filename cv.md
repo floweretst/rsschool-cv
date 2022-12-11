@@ -1,4 +1,4 @@
-Tsvetkov Sergey
+##Tsvetkov Sergey
 
 ---
 #### CONTACT
@@ -20,11 +20,14 @@ Design engineer with more than 10 years of experience in various industries: aer
 --- 
 #### EDUCATION
 - ***2013***, **Moscow State Industrial University (MSIU)**
+
  Design engineer
 - ***2014***, **Moscow State Industrial University (MSIU)**
+
  Economist-manager
 
 ---
-### LANGUAGES
+#### LANGUAGES
 **Russian - native**
+
 **English - A2 (Pre-Intermediate)**
